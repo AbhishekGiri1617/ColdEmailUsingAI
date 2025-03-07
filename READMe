@@ -1,17 +1,3 @@
-Overview
-The AI Cold Email Generator is a powerful application designed to simplify the process of creating personalized cold emails for job applications. 
-With just the URL of a job's career site page, this app scrapes the relevant information, cleans and processes the data, and crafts a professional email 
-tailored for the job description.
-
-TOOLS:
-Python - >= 3.7
-Pandas 
-LangChain
-Gorq
-Streamlit
-ChromaDB
-
-
 # AI-Powered Cold Email Generation  
 
 ## Overview  
