@@ -9,7 +9,3 @@ Gorq, ChromaDB, to automate and personalize the creation of cold emails. Instead
 -   [If applicable: Integration with email sending services.]  
 -   Example usage scenarios and generated email samples.  
 
-## Technologies  
-
--   Python  
--   Libraries: `openai` (if using OpenAI models), `pandas`, potentially other NLP libraries.  
