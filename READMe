@@ -1,11 +1,1 @@
-# AI-Powered Cold Email Generation  
-## Overview  
-This project leverages the power of AI, specifically angChain
-Gorq, ChromaDB, to automate and personalize the creation of cold emails. Instead of relying on generic templates, this project aims to generate unique and engaging email content tailored to individual recipients or target audiences.
-## Key Features  
-
--   Automatic generation of cold emails based on input parameters.  
--   Customization options for email content and tone.  
--   [If applicable: Integration with email sending services.]  
--   Example usage scenarios and generated email samples.  
 
