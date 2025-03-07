@@ -1,5 +1,4 @@
 # AI-Powered Cold Email Generation  
-
 ## Overview  
 
 This project uses AI, specifically LangChain
@@ -17,29 +16,3 @@ Gorq, ChromaDB, to automate and personalize the creation of cold emails. Instead
 
 -   Python  
 -   Libraries: `openai` (if using OpenAI models), `pandas`, potentially other NLP libraries.  
-
-## Setup  
-
-1.  Clone: `git clone https://github.com/AbhishekGiri1617/ColdEmailUsingAI.git`  
-2.  Install: `pip install -r requirements.txt` *(Create `requirements.txt` using `pip freeze > requirements.txt`)*  
-3.  Obtain an API key from [Specify the API provider, e.g., OpenAI] and configure it in the notebook. **Do NOT commit your API key.**  
-4.  Open and run the `ColdEmailusingAI.ipynb` notebook.  
-
-## Usage  
-
-1.  Enter the required input parameters in the notebook (e.g., target audience, desired email tone).  
-2.  Run the notebook cells to generate the cold emails.  
-3.  Review and customize the generated emails as needed.  
-4.  [If applicable: Use the integrated email sending functionality.]  
-
-## Contributing  
-
-Fork the repository and submit a pull request.  
-
-## License  
-
-MIT License - see [LICENSE](LICENSE) file.  
-
-## Contact  
-
-Abhishek Giri - [Your GitHub Profile Link]  
